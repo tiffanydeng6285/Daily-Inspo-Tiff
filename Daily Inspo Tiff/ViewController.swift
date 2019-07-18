@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     //notification content//
     let content = UNMutableNotificationContent()
     content.title = "Check Daily Message"
-    content.body = "The 5 seconds are really up!"
+    content.body = "add message"
     content.badge = 1
     
         
